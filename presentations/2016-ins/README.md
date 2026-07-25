@@ -6,7 +6,7 @@
 
 **Contributions:** Lead researcher and first author. Designed the 3-phase experimental paradigm, programmed the functional magnetic resonance imaging (fMRI) task in MATLAB (customizing individualized stimuli and scan-synchronized response collection), performed primary neuroimaging and behavioral data collection, conducted all analyses in MATLAB and SPSS, developed primary data visualizations, and authored the presentation materials.
 
-**Keywords:** Machine Learning Classification, Multi-Voxel Pattern Analysis (MVPA), Regularized Logistic Regression (RLR), Functional Magnetic Resonance Imaging (fMRI), Wearable Camera Technology, Experimental Design, Episodic Memory, Neuroethics
+**Keywords:** Machine Learning Classification, Multi-Voxel Pattern Analysis (MVPA), Regularized Logistic Regression (RLR), Functional Magnetic Resonance Imaging (fMRI), Feature Engineering, Brain Decoding, Wearable Camera Technology, Experimental Design, Episodic Memory, Neuroethics
 
 ---
 
