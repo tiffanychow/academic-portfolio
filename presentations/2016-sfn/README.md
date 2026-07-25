@@ -2,7 +2,7 @@
 
 **Conference:** Society for Neuroscience (SfN) Annual Meeting | 2016 | Poster Presentation | San Diego, CA, USA
 
-**Contributions:** Lead researcher and first author. Designed the 3-phase experimental paradigm, programmed the functional magnetic resonance imaging (fMRI) task in MATLAB (customizing individualized stimuli and scan-synchronized response collection), performed primary neuroimaging and behavioral data collection, conducted all analyses in MATLAB and SPSS, developed primary data visualizations, and authored the presentation materials.
+**Contributions:** Lead researcher and first author. Designed the 3-phase experimental paradigm, programmed the functional magnetic resonance imaging (fMRI) task in MATLAB (customizing individualized stimuli and scan-synchronized response collection), performed primary neuroimaging and behavioral data collection, conducted all statistical analyses in MATLAB and SPSS, developed primary data visualizations, and authored the presentation materials.
 
 **Keywords:** Functional Magnetic Resonance Imaging (fMRI), Functional Connectivity, Generalized Context-Dependent Psychophysiological Interaction (gPPI), Rostrolateral Prefrontal Cortex (RLPFC), Hemispheric Lateralization, Prediction Error, Wearable Camera Technology, Experimental Design, Episodic Memory
 
