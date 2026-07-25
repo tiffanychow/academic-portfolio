@@ -4,7 +4,7 @@
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, genetic, and behavioral), conducted all statistical modeling and voxel-based morphometry (VBM) analyses in R and MATLAB, developed all data visualizations, and authored the presentation materials.
 
-**Keywords:** Magnetic Resonance Imaging (MRI), Voxel-Based Morphometry (VBM), Multivariate Linear Regression, Cohort Stratification, Gray Matter Volume, Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Genetic Risk Factors, Neurodegenerative Disorder, Social Cognition, Cognitive Empathy, Interpersonal Reactivity Index (IRI)
+**Keywords:** Magnetic Resonance Imaging (MRI), Voxel-Based Morphometry (VBM), Multivariate Linear Regression, Cohort Stratification, Gray Matter Volume, Frontoparietal Cortex, Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Genetic Risk Factors, Neurodegenerative Disorder, Social Cognition, Cognitive Empathy, Interpersonal Reactivity Index (IRI)
 
 ---
 
