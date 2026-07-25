@@ -14,3 +14,6 @@
 *   **Approach:** Examined 87 cognitively normal older adults enrolled in a longitudinal aging study with follow-ups spanning up to 12.4 years. Participants were divided into positive Aβ (Aβ+; *n* = 24) and negative Aβ (Aβ-; *n* = 63) groups using molecular Positron Emission Tomography (PET) imaging. Assessed longitudinal group differences in informant-based emotional empathy ratings with multivariate mixed-model regressions and investigated the relationship between these longitudinal empathy trajectories with gray matter volume using voxel-based morphometry (VBM).
 *   **Takeaway:** Early AD pathology reflects socioemotional changes and underlying structural neuroanatomy differences in cognitively normal individuals. The Aβ+ group demonstrated a **significant longitudinal increase in emotional empathy**, a behavioral shift that occurred independently of mood differences, and these steeper empathy gains were directly associated with **smaller right hippocampal gray matter volume**. These results suggest that *preclinical behavioral shifts may occur before cognitive decline* is clinically detected.
 
+---
+
+![SfN Poster](2019-chow-sfn.png)
