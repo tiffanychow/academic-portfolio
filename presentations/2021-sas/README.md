@@ -1,6 +1,6 @@
 # Elevated Salience Network Connectivity is Associated with Increasing Emotional Empathy in Amyloid-β Positive, Healthy Older Adults
 
-**Conference:** Society for Affective Science (SAS) | 2021 | Digital Abstract and Video Presentation | Virtual
+**Conference:** Society for Affective Science (SAS) | 2021 | Digital Presentation | Virtual
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, genetic, and behavioral), conducted all statistical modeling and functional connectivity analyses in R and MATLAB, developed all data visualizations, and authored the presentation materials.
 
