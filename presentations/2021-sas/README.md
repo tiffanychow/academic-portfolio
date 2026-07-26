@@ -4,7 +4,7 @@
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, genetic, and behavioral), conducted all statistical modeling and functional connectivity analyses in R and MATLAB, developed all data visualizations, and authored the presentation materials.
 
-**Keywords:** Task-Free Functional Magnetic Resonance Imaging (tf-fMRI), Positron Emission Tomography (PET), Functional Connectivity, Longitudinal Behavioral Modeling, Trajectory Forecasting, Mixed-Effects Modeling, Multivariate Linear Regression, Forward-Selection Hierarchical Regression, Cohort Stratification, Alzheimer's Disease, Amyloid-β, Apolipoprotein ɛ4 (APOE\*E4), Biomarker, Neurodegenerative Disorder, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)
+**Keywords:** Task-Free Functional Magnetic Resonance Imaging (tf-fMRI), Positron Emission Tomography (PET), Functional Connectivity, Longitudinal Behavioral Modeling, Trajectory Forecasting, Mixed-Effects Modeling, Multivariate Linear Regression, Forward-Selection Hierarchical Regression, Cohort Stratification, Alzheimer's Disease, Amyloid-β, Apolipoprotein ɛ4 (APOE\*E4), Biomarker, Preclinical Marker, Neurodegenerative Disorder, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)
 
 ---
 
