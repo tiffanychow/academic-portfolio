@@ -4,7 +4,7 @@
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, genetic, and behavioral), conducted all statistical modeling and neuroimaging analyses in R and MATLAB, developed all data visualizations, and authored the presentation materials.
 
-**Keywords:** Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET), Longitudinal Behavioral Modeling, Trajectory Forecasting, Mixed-Effects Modeling, Multivariate Linear Regression, Cohort Stratification, Gray Matter Volume, Hippocampus, Alzheimer's Disease, Amyloid-β, Apolipoprotein ɛ4 (APOE\*E4), Biomarker, Neurodegenerative Disorder, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)
+**Keywords:** Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET), Longitudinal Behavioral Modeling, Trajectory Forecasting, Mixed-Effects Modeling, Multivariate Linear Regression, Cohort Stratification, Gray Matter Volume, Hippocampus, Alzheimer's Disease, Amyloid-β, Apolipoprotein ɛ4 (APOE\*E4), Biomarker, Preclinical Marker, Neurodegenerative Disorder, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)
 
 ---
 
