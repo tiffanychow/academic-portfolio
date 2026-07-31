@@ -21,7 +21,7 @@
 
 *   **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning neuroimaging, genetic, and behavioral metrics.
 *   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing multivariate mixed-model regressions and forward-selection hierarchical regressions in **R**, and conducting functional connectivity neuroimaging analyses in **MATLAB**.
-*   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats, and authored the final presentation materials.
+*   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
 ---
 
