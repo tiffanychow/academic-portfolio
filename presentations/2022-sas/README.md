@@ -2,7 +2,7 @@
 
 **Digital Presentation** | Society for Affective Science (SAS) | 2022 | Virtual
 
-**Core Skills:** `R` `MATLAB` `Mixed-Effects Regression` `Longitudinal Analyses` `Voxel-Based Morphometry (VBM)`
+**Core Skills:** `R` `MATLAB` `Mixed-Effects Regression` `Longitudinal Analyses` `Voxel-Based Morphometry (VBM)` `MRI`
 
 ---
 
