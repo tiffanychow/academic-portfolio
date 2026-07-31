@@ -21,7 +21,14 @@
 *   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
 ---
+
 ![SAS Poster](2022_chow_sas.png)
+
+---
+
+## Funding Acknowledgment
+
+This study was supported by the Larry L. Hillblom Foundation, the John Douglas French Alzheimer’s Foundation, and grants from the National Institute on Aging (P30 AG062422, K23AG040127, K99AG065501, R01AG057204, and R01AG073244).
 
 ---
 **Keywords:** *Magnetic Resonance Imaging (MRI), Structural Neuroimaging, Voxel-Based Morphometry (VBM), Behavioral Modeling, Neuroimaging Analyses, Longitudinal Analyses, Mixed-Effects Modeling, Multivariate Linear Regression, Gray Matter Volume, Fusiform Gyrus, Subjective Cognitive Decline (SCD), Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Neurodegenerative Disorder, Preclinical Marker, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)*
