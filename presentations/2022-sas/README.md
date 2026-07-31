@@ -2,7 +2,7 @@
 
 **Digital Presentation** | Society for Affective Science (SAS) | 2022 | Virtual
 
-**Core Skills:** `R` `MATLAB` `Mixed-Effects Regression` `Longitudinal Analyses` `Voxel-Based Morphometry (VBM)` `MRI`
+**Core Skills:** `R` `MATLAB` `Mixed-Effects Regression` `Longitudinal Analyses` `Structural Neuroimaging` `Voxel-Based Morphometry (VBM)` `MRI`
 
 ---
 
@@ -17,11 +17,11 @@
 ## Technical Methodologies
 *As the lead researcher and first author, I conducted the end-to-end analytical pipeline:*
 *   **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning neuroimaging, genetic, and behavioral metrics.
-*   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing multivariate mixed-model regressions in **R**, and conducting neuroimaging analyses in **MATLAB**.
+*   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing multivariate mixed-model regressions in **R**, and conducting structural neuroimaging analyses in **MATLAB**.
 *   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
 ---
 ![SAS Poster](2022_chow_sas.png)
 
 ---
-**Keywords:** *Magnetic Resonance Imaging (MRI), Voxel-Based Morphometry (VBM), Behavioral Modeling, Neuroimaging Analyses, Longitudinal Analyses, Mixed-Effects Modeling, Multivariate Linear Regression, Gray Matter Volume, Fusiform Gyrus, Subjective Cognitive Decline (SCD), Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Neurodegenerative Disorder, Preclinical Marker, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)*
+**Keywords:** *Magnetic Resonance Imaging (MRI), Structural Neuroimaging, Voxel-Based Morphometry (VBM), Behavioral Modeling, Neuroimaging Analyses, Longitudinal Analyses, Mixed-Effects Modeling, Multivariate Linear Regression, Gray Matter Volume, Fusiform Gyrus, Subjective Cognitive Decline (SCD), Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Neurodegenerative Disorder, Preclinical Marker, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)*
