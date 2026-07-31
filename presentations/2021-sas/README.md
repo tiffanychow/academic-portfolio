@@ -25,7 +25,7 @@
 
 ---
 
-View the abstract submission below, and click to view the high-resolution PDF.
+View the abstract below, and click to view the high-resolution PDF.
 
 [![SAS Abstract Thumbnail](2021-chow-sas.png)](./2021-chow-sas.pdf)
 
