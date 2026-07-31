@@ -2,7 +2,7 @@
 
 **Digital Presentation** | Society for Affective Science (SAS) | 2021 | Virtual
 
-**Core Skills:** `R` `MATLAB` `Mixed-Effects Modeling` `Multivariate Linear Regression` `Longitudinal Analyses` `Trajectory Forecasting` `Forward-Selection Hierarchical Regression` `Functional Connectivity` `Functional Magnetic Resonance Imaging (fMRI)` `Positron Emission Tomography (PET)`
+**Core Skills:** `R` `MATLAB` `Mixed-Effects Regression` `Longitudinal Trajectory Modeling` `Feature Selection` `Functional Connectivity` `fMRI` `PET`
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, genetic, and behavioral), conducted all statistical modeling and functional connectivity analyses in R and MATLAB, developed all data visualizations, and authored the presentation materials.
 
