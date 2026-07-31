@@ -1,10 +1,10 @@
 # Elevated Salience Network Connectivity is Associated with Increasing Emotional Empathy in Amyloid-β Positive, Healthy Older Adults
 
-**Conference:** Society for Affective Science (SAS) | 2021 | Digital Presentation | Virtual
+**Digital Presentation** | Society for Affective Science (SAS) | 2021 | Virtual
+
+**Core Skills:** `R` `MATLAB` `Mixed-Effects Modeling` `Multivariate Linear Regression` `Longitudinal Analyses` `Trajectory Forecasting` `Forward-Selection Hierarchical Regression` `Functional Connectivity` `Functional Magnetic Resonance Imaging (fMRI)` `Positron Emission Tomography (PET)`
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, genetic, and behavioral), conducted all statistical modeling and functional connectivity analyses in R and MATLAB, developed all data visualizations, and authored the presentation materials.
-
-**Keywords:** Task-Free Functional Magnetic Resonance Imaging (tf-fMRI), Positron Emission Tomography (PET), Functional Connectivity, Longitudinal Behavioral Modeling, Trajectory Forecasting, Mixed-Effects Modeling, Multivariate Linear Regression, Forward-Selection Hierarchical Regression, Cohort Stratification, Alzheimer's Disease, Amyloid-β, Apolipoprotein ɛ4 (APOE\*E4), Biomarker, Preclinical Marker, Neurodegenerative Disorder, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)
 
 ---
 
@@ -21,3 +21,7 @@
 View the abstract submission below, and click to view the high-resolution PDF.
 
 [![SAS Abstract Thumbnail](2021-chow-sas.png)](./2021-chow-sas.pdf)
+
+---
+
+**Keywords:** *Task-Free Functional Magnetic Resonance Imaging (tf-fMRI), Positron Emission Tomography (PET), Functional Connectivity, Longitudinal Behavioral Modeling, Trajectory Forecasting, Mixed-Effects Modeling, Multivariate Linear Regression, Forward-Selection Hierarchical Regression, Cohort Stratification, Alzheimer's Disease, Amyloid-β, Apolipoprotein ɛ4 (APOE\*E4), Biomarker, Preclinical Marker, Neurodegenerative Disorder, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)*
