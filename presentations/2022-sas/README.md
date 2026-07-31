@@ -17,7 +17,7 @@
 ## Technical Methodologies
 *As the lead researcher and first author, I conducted the end-to-end analytical pipeline:*
 *   **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning neuroimaging, genetic, and behavioral metrics.
-*   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing linear regressions and mixed-effects longitudinal trajectory forecasts in **R**, and conducting neuroimaging analyses in **MATLAB**.
+*   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing linear regressions and mixed-effects longitudinal trajectory models in **R**, and conducting neuroimaging analyses in **MATLAB**.
 *   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats, and authored the final presentation materials.
 
 ---
