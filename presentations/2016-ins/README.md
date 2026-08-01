@@ -6,7 +6,7 @@
 
 **Funding:** National Science Foundation Graduate Research Fellowship Program
 
-**Core Skills:** `MATLAB` `Machine Learning (MVPA)` `Predictive Modeling` `Regularized Logistic Regression (RLR)` `Feature Engineering` `Experimental Design` `fMRI`
+**Core Skills:** `MATLAB` `Machine Learning (MVPA)` `Predictive Modeling` `Regularized Logistic Regression (RLR)` `Feature Engineering` `Time-Series Analysis` `Experimental Design` `fMRI`
 
 ---
 
@@ -21,7 +21,7 @@
 ## Technical Methodologies
 *As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
 *   **Experimental Design:** Designed a novel 3-phase functional magnetic resonance imaging (fMRI) experimental paradigm utilizing wearable digital cameras to capture unstructured, real-world event sequences, programming the fMRI tasks with customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collected neuroimaging and behavioral data.
-*   **Statistical & Predictive Modeling:** Designed and implemented a neuroimaging machine learning pipeline, deploying multi-voxel pattern analysis (MVPA) and regularized logistic regression (RLR) classifier algorithms in **MATLAB** to decode memory states from brain activity, and evaluated machine learning performance along with additional behavioral analyses in **Microsoft Excel** and **SPSS**.
+*   **Statistical & Predictive Modeling:** Designed and implemented a neuroimaging machine learning pipeline to clean and process the time-series, deploying multi-voxel pattern analysis (MVPA) and regularized logistic regression (RLR) classifier algorithms in **MATLAB** to decode memory states from brain activity, and evaluated machine learning performance along with additional behavioral analyses in **Microsoft Excel** and **SPSS**.
 *   **Data Visualization:** Developed data visualizations to translate complex machine learning and brain mapping findings into accessible formats and authored the final presentation materials.
 
 ---
@@ -37,4 +37,4 @@ Any opinions, findings, and conclusions or recommendations expressed in this mat
 
 ---
 
-**Keywords:** *Machine Learning Classification, Predictive Modeling, Multi-Voxel Pattern Analysis (MVPA), Regularized Logistic Regression (RLR), Feature Engineering, Functional Magnetic Resonance Imaging (fMRI), Wearable Camera Technology, Neuroimaging Analyses, Brain Decoding, Cognitive State Classification, Episodic Memory, Neuroethics, Experimental Design, MATLAB, SPM, Microsoft Excel, SPSS*
+**Keywords:** *Machine Learning Classification, Predictive Modeling, Multi-Voxel Pattern Analysis (MVPA), Regularized Logistic Regression (RLR), Feature Engineering, Functional Magnetic Resonance Imaging (fMRI), Time-Series Analysis, Wearable Camera Technology, Neuroimaging, Brain Decoding, Cognitive State Classification, Episodic Memory, Neuroethics, Experimental Design, MATLAB, SPM, Microsoft Excel, SPSS*
