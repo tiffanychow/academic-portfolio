@@ -18,3 +18,11 @@
 * **Approach:** Implemented a 3-phase fMRI experimental design employing naturalistic event sequences taken from participants' lives over 3 weeks via wearable digital cameras. Conducted general linear model (GLM) univariate contrasts to *identify distinct types of prediction error signaling in response to temporal order violations* (intact vs. scrambled sequences) as well as generalized context-dependent psychophysiological interaction (gPPI) analyses using the left and right RLPFC to *assess functional connectivity*.
 * **Takeaway:** The left and right RLPFC hemispheres demonstrate divergent activation and functional connectivity profiles. The **left RLPFC** detected temporal order violations in *novel* sequences (*potentially reflecting schema-based prediction errors*), while the **right RLPFC** detected temporal order violations in *previously encountered* sequences (*potentially reflecting memory-based prediction errors*).
 
+---
+
+## Technical Methodologies
+*As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
+*   **Experimental Design:** Designed a 3-phase functional magnetic resonance imaging (fMRI) paradigm utilizing wearable digital cameras to capture unstructured, real-world event sequences, programming the customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collecting neuroimaging and behavioral data.
+*   **Statistical Modeling:** Designed and implemented a neuroimaging analysis pipeline to clean and process the time-series, conducting general linear model (GLM) univariate contrasts and generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses in **MATLAB** and **SPSS**.
+*   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
+
