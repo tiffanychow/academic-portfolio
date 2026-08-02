@@ -26,3 +26,17 @@
 *   **Statistical Modeling:** Designed and implemented a neuroimaging analysis pipeline to clean and process the time-series, conducting general linear model (GLM) univariate contrasts and generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses in **MATLAB** and **SPSS**.
 *   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
+---
+
+![SfN Poster](2016-chow-sfn.png)
+
+---
+
+## Funding Acknowledgment
+This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE-1144087 and DGE-1650604 awarded to Tiffany E. Chow, as well as a Hellman Fellows Fund award and UCLA COR Faculty Research Grant to Jesse Rissman.
+
+Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
+
+---
+
+**Keywords:** *Functional Magnetic Resonance Imaging (fMRI), Functional Connectivity, Generalized Context-Dependent Psychophysiological Interaction (gPPI), General Linear Model (GLM), Time-Series Analysis, Rostrolateral Prefrontal Cortex (RLPFC), Hemispheric Lateralization, Prediction Error, Wearable Camera Technology, Neuroimaging, Experimental Design, Episodic Memory, MATLAB, SPSS*
