@@ -12,3 +12,11 @@
 * **Approach:** Evaluated a large cohort of cognitively healthy older adults (*n* = 359) over a longitudinal follow-up period (ranging up to 12.4 years) that included multiple informant ratings of empathy from the Interpersonal Reactivity Index (IRI) measure. Analyzed socioemotional differences between APOE\*E4 carriers and non-carriers by conducting multivariate linear regressions to assess baseline empathy levels between groups as well as longitudinal multivariate mixed-effects linear regressions modeling the interaction between APOE\*E4 carrier status and time to assess empathy trajectories as well as neuropsychological performance.
 * **Takeaway:** APOE\*E4 exerts a long-term influence on empathy. APOE\*E4 carriers not only exhibited **significantly lower baseline affective and cognitive empathy** compared to non-carriers, but carriers also demonstrated a **steeper increase in cognitive empathy across time**, which occurred in the complete absence of concurrent cognitive decline. This suggests that *socioemotional changes may take place prior to cognitive decline in individuals with genetic AD risk*, highlighting potential early behavioral markers.
 
+---
+
+## Technical Methodologies
+*As the lead researcher and first author, I conducted the end-to-end analytical pipeline:*
+*   **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning genetic and behavioral metrics.
+*   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing multivariate linear regressions and mixed-effects longitudinal trajectory models in **R**.
+*   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
+
