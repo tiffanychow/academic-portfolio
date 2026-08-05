@@ -1,6 +1,8 @@
 # Empathic Concern Trajectories Reflect Underlying Amyloid-β and Hippocampal Gray Matter Volume in Cognitively Normal Older Adults
 
-**Conference:** Society for Neuroscience (SfN) Annual Meeting | 2019 | Poster Presentation | Chicago, IL, USA
+**Poster Presentation** | Society for Neuroscience (SfN) Annual Meeting | 2019 | Chicago, IL, USA
+
+**Core Skills:** `R` `MATLAB` `Mixed-Effects Regression` `Longitudinal Trajectory Modeling` `Voxel-Based Morphometry (VBM)` `PET` `MRI`
 
 **Contributions:** Lead researcher and first author. Investigated core research question and operationalized the analytical design, curated the dataset by defining inclusion criteria and aggregating data (neuroimaging, genetic, and behavioral), conducted all statistical modeling and neuroimaging analyses in R and MATLAB, developed all data visualizations, and authored the presentation materials.
 
@@ -17,3 +19,5 @@
 ---
 
 ![SfN Poster](2019-chow-sfn.png)
+
+
