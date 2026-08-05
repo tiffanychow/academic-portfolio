@@ -8,7 +8,7 @@
 
 ## Executive Summary
 
-*   **Problem:** While Amyloid-β (Aβ) plaques may begin accumulating in the brain decades before clinical Alzheimer's disease (AD) is diagnosed, symptomatic patients with this neurodegenerative disorder often present with heightened emotional empathy. It is unknown whether abnormal Aβ aggregation triggers similar socioemotional changes in healthy older adults, and how these early behavioral shifts may reveal corresponding structural brain vulnerabilities, particularly in memory-processing regions like the hippocampus.
+*   **Problem:** While Amyloid-β (Aβ) plaques may begin accumulating in the brain decades before clinical Alzheimer's disease (AD) is diagnosed, symptomatic patients with this neurodegenerative disorder often present with heightened emotional empathy. It is unknown whether abnormal Aβ aggregation triggers similar socioemotional changes in healthy older adults, and how these early behavioral shifts may reveal corresponding structural brain vulnerabilities, particularly in memory-processing regions like the hippocampus. 
 *   **Approach:** Examined 87 cognitively normal older adults enrolled in a longitudinal aging study with follow-ups spanning up to 12.4 years. Participants were divided into positive Aβ (Aβ+; *n* = 24) and negative Aβ (Aβ-; *n* = 63) groups using molecular Positron Emission Tomography (PET) imaging. Assessed longitudinal group differences in informant-based emotional empathy ratings with multivariate mixed-effects regressions and investigated the relationship between these longitudinal empathy trajectories with gray matter volume using voxel-based morphometry (VBM).
 *   **Takeaway:** Early AD pathology reflects socioemotional changes and accompanying structural neuroanatomy differences in cognitively normal individuals. The Aβ+ group demonstrated a **significant longitudinal increase in emotional empathy**, a behavioral shift that occurred *independently of mood differences*, and these steeper empathy gains were directly associated with **smaller right hippocampal gray matter volume**. These results suggest that *preclinical behavioral shifts may occur before cognitive decline* is clinically detected.
 
@@ -21,3 +21,15 @@
 *   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing cross-sectional multivariate mixed-effects regressions and mixed-effects longitudinal trajectory models in **R**, and conducting voxel-based morphometry (VBM) neuroimaging analyses in **MATLAB**.
 *   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
+---
+
+![SfN Poster](2019-chow-sfn.png)
+
+---
+
+## Funding Acknowledgment
+
+This study was supported by the Larry L. Hillblom Foundation, the John Douglas French Alzheimer’s Foundation, and grants from the National Institute on Aging (P30 AG062422, K23AG040127, K99AG065501, R01AG057204, and R01AG073244).
+
+---
+**Keywords:** *Magnetic Resonance Imaging (MRI), Positron Emission Tomography (PET), Voxel-Based Morphometry (VBM), Structural Neuroimaging, Mixed-Effects Regression, Longitudinal Behavioral Modeling, Multivariate Linear Regression, Cohort Stratification, Gray Matter Volume, Hippocampus, Alzheimer's Disease, Amyloid-β, Apolipoprotein ɛ4 (APOE\*E4), Biomarker, Preclinical Marker, Neurodegenerative Disorder, Social Cognition, Emotional Empathy, Interpersonal Reactivity Index (IRI)*
