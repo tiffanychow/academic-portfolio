@@ -20,3 +20,16 @@
 *   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing multivariate mixed-effect linear regressions in **R**, and conducting voxel-based morphometry (VBM) neuroimaging analyses in **MATLAB**.
 *   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
+---
+
+![BAAS Poster](2019-chow-baas.png)
+
+---
+
+## Funding Acknowledgment
+
+This study was supported by the Larry L. Hillblom Foundation, the John Douglas French Alzheimer’s Foundation, and grants from the National Institute on Aging (P30 AG062422, K23AG040127, K99AG065501, R01AG057204, and R01AG073244).
+
+---
+
+**Keywords:** *Magnetic Resonance Imaging (MRI), Voxel-Based Morphometry (VBM), Structural Neuroimaging, Mixed-Effects Regression, Cohort Stratification, Gray Matter Volume, Frontoparietal Cortex, Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Genetic Risk Factors, Neurodegenerative Disorder, Social Cognition, Cognitive Empathy, Interpersonal Reactivity Index (IRI)*
