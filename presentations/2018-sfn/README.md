@@ -16,9 +16,9 @@
 
 ## Technical Methodologies
 *As the lead researcher and first author, I conducted the end-to-end analytical pipeline:*
-*   **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning genetic and behavioral metrics.
-*   **Statistical Modeling:** Designed and implemented a cohort stratification analysis pipeline, developing multivariate linear regressions and mixed-effects longitudinal trajectory models in **R**.
-*   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
+* **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning genetic and behavioral metrics.
+* **Statistical Modeling:** Designed and implemented a comparative analysis pipeline to evaluate socioemotional divergence based on genetic risk, developing multivariate linear regressions and mixed-effects longitudinal trajectory models in **R**.
+* **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
 ---
 
@@ -31,4 +31,5 @@
 This study was supported by the Larry L. Hillblom Foundation, the John Douglas French Alzheimer’s Foundation, and grants from the National Institute on Aging (P30 AG062422, K23AG040127, K99AG065501, R01AG057204, and R01AG073244).
 
 ---
-**Keywords:** *Longitudinal Behavioral Trajectory Modeling, Mixed-Effects Regression, Cohort Stratification, Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Genetic Risk Factors, Neurodegenerative Disorder, Social Cognition, Affective Empathy, Cognitive Empathy, Interpersonal Reactivity Index (IRI)*
+
+**Keywords:** *Longitudinal Behavioral Trajectory Modeling, Mixed-Effects Regression, Cohort Stratification, Multimodal Integration, Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Genetic Risk Factors, Neurodegenerative Disorder, Social Cognition, Affective Empathy, Cognitive Empathy, Interpersonal Reactivity Index (IRI)*
