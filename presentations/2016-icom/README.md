@@ -18,9 +18,9 @@
 
 ## Technical Methodologies
 *As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
-*   **Experimental Design:** Designed a fully-crossed, 3-factor functional magnetic resonance imaging (fMRI) experimental paradigm utilizing wearable digital cameras to capture unstructured, real-world event sequences, programming the customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collecting neuroimaging and behavioral data.
-*   **Statistical Modeling:** Designed and implemented a neuroimaging analysis pipeline to clean and process the time-series, extracting general linear model (GLM) parameter estimates and conducting generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses in **MATLAB** and **SPSS**.
-*   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the final presentation materials.
+* **Experimental Design:** Designed a fully-crossed, 3-factor functional magnetic resonance imaging (fMRI) experimental paradigm utilizing wearable digital cameras to capture unstructured, real-world event sequences, programming the customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collecting neuroimaging and behavioral data.
+* **Statistical Modeling:** Designed and implemented a neuroimaging analysis pipeline to clean and process the time-series, extracting general linear model (GLM) parameter estimates and conducting generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses in **MATLAB** and **SPSS**.
+* **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the final presentation materials.
 
 
 ---
@@ -37,5 +37,3 @@ Any opinions, findings, and conclusions or recommendations expressed in this mat
 ---
 
 **Keywords:** *Functional Magnetic Resonance Imaging (fMRI), Functional Connectivity, Generalized Context-Dependent Psychophysiological Interaction (gPPI), General Linear Model (GLM), Parameter Extraction, Time-Series Analysis, Hippocampal Long Axis, Default Mode Network (DMN), Wearable Camera Technology, Neuroimaging, Experimental Design, Episodic Memory, MATLAB, SPSS*
-
-
