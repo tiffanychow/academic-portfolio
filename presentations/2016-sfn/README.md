@@ -22,9 +22,9 @@
 
 ## Technical Methodologies
 *As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
-*   **Experimental Design:** Designed a 3-phase functional magnetic resonance imaging (fMRI) paradigm utilizing wearable digital cameras to capture unstructured, real-world event sequences, programming the customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collecting neuroimaging and behavioral data.
-*   **Statistical Modeling:** Designed and implemented a neuroimaging analysis pipeline to clean and process the time-series, conducting general linear model (GLM) univariate contrasts and generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses in **MATLAB** and **SPSS**.
-*   **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
+* **Experimental Design:** Designed a 3-phase functional magnetic resonance imaging (fMRI) paradigm utilizing wearable digital cameras to capture unstructured, real-world event sequences, programming the customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collecting neuroimaging and behavioral data.
+* **Statistical Modeling:** Designed and implemented a neuroimaging analysis pipeline to clean and process the time-series, conducting general linear model (GLM) univariate contrasts and generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses in **MATLAB** and **SPSS**.
+* **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
 ---
 
