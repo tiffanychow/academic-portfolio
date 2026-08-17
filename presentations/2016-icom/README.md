@@ -2,6 +2,8 @@
 
 **Poster Presentation** | International Conference on Memory (ICOM) | 2016 | Budapest, Hungary
 
+**Poster Presentation** ([View Poster](./2016-chow-icom.png)) | International Conference on Memory (ICOM) | 2016 | Budapest, Hungary
+
 **Funding:** National Science Foundation Graduate Research Fellowship Program
 
 **Core Skills:** `MATLAB` `SPSS` `Functional Connectivity` `Statistical Modeling` `General Linear Model (GLM)` `Time-Series Analysis` `Experimental Design` `fMRI`
@@ -22,7 +24,6 @@
 * **Statistical Modeling:** Designed and implemented a neuroimaging analysis pipeline to clean and process the time-series, extracting general linear model (GLM) parameter estimates and conducting generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses in **MATLAB** and **SPSS**.
 * **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the final presentation materials.
 
-
 ---
 
 ![ICOM Poster](2016-chow-icom.png)
@@ -33,7 +34,3 @@
 This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE-1144087 and DGE-1650604 awarded to Tiffany E. Chow, as well as a Hellman Fellows Fund award and UCLA COR Faculty Research Grant to Jesse Rissman.
 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
-
----
-
-**Keywords:** *Functional Magnetic Resonance Imaging (fMRI), Functional Connectivity, Generalized Context-Dependent Psychophysiological Interaction (gPPI), General Linear Model (GLM), Parameter Extraction, Time-Series Analysis, Hippocampal Long Axis, Default Mode Network (DMN), Wearable Camera Technology, Neuroimaging, Experimental Design, Episodic Memory, MATLAB, SPSS*
