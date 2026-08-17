@@ -9,7 +9,6 @@
 ---
 
 ## Executive Summary
-
 * **Problem:** The hippocampus processes diverse memory dimensions, including self-relevance, novelty, and temporal sequence. However, how these attributes are simultaneously mapped along its functional longitudinal axis during real-world retrieval remains poorly understood.
 * **Approach:** Designed and implemented a fully-crossed, 3-factor fMRI paradigm utilizing naturalistic event sequences captured from participants' lives over 3 weeks via wearable digital cameras. Extracted general linear model (GLM) parameter estimates from 6 bilateral hippocampal anatomical sub-regions to measure regional activation differences, and conducted generalized context-dependent psychophysiological interaction (gPPI) analyses to map functional connectivity across the longitudinal axis.
 * **Takeaway:** Identified a functional dissociation along the hippocampal long axis with distinct specialization and connectivity profiles. **Anterior hippocampal regions** responded to novelty and correct temporal sequences (reflecting memory search and construction mechanisms), whereas **intermediate and posterior hippocampal regions** preferentially responded to personally experienced events (reflecting retrieval and elaboration mechanisms).
