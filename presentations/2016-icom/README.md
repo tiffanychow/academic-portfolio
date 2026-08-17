@@ -18,7 +18,7 @@
 ## Technical Methodologies
 *As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
 * **Experimental Design:** Designed a fully-crossed, 3-factor longitudinal fMRI experimental paradigm using wearable digital cameras to capture unstructured, real-world event sequences over 3 weeks. Programmed the customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collected all neuroimaging and behavioral data.
-* **Statistical Modeling:** Built an end-to-end pipeline to clean and process 4D neuroimaging time-series in **MATLAB** and **SPSS**, integrating advanced denoising algorithms, anatomical region-of-interest (ROI) segmentation, general linear model (GLM) parameter extraction, and generalized context-dependent psychophysiological interaction (gPPI) functional connectivity modeling.
+* **Statistical Modeling:** Built an end-to-end pipeline to clean and process 4D neuroimaging time series in **MATLAB** and **SPSS**, integrating advanced denoising algorithms, anatomical region-of-interest (ROI) segmentation, general linear model (GLM) parameter extraction, and generalized context-dependent psychophysiological interaction (gPPI) functional connectivity modeling.
 * **Data Visualization:** Authored all presentation materials, engineering comparative figures and anatomical maps that translate multidimensional statistical models and network interactions into visual formats.
 
 ---
