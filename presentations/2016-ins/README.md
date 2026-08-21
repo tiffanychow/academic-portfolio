@@ -26,7 +26,7 @@
 
 ---
 
-![INS Poster](2016-chow-ins.png)
+![INS Poster](./2016-chow-ins.png)
 
 ---
 
