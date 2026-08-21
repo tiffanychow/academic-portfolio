@@ -4,7 +4,7 @@
 
 **Fellowship Award:** National Science Foundation Graduate Research Fellowship Program
 
-**Core Skills:** `MATLAB` `SPSS` `Time-Series Modeling` `Functional Connectivity (gPPI)` `General Linear Model (GLM)` `Factorial Experimental Design` `Wearable Camera Data` `fMRI`
+**Core Skills:** `MATLAB` `SPSS` `Time-Series Modeling` `Functional Connectivity (gPPI)` `General Linear Model (GLM)` `Factorial Experimental Design` `Wearable Camera Technology` `fMRI`
 
 ---
 
