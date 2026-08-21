@@ -34,7 +34,3 @@
 This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE-1144087 and DGE-1650604 awarded to Tiffany E. Chow, as well as a Hellman Fellows Fund award and UCLA COR Faculty Research Grant to Jesse Rissman.
 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
-
----
-
-**Keywords:** *Machine Learning Classification, Predictive Modeling, Multi-Voxel Pattern Analysis (MVPA), Regularized Logistic Regression (RLR), Feature Engineering, Functional Magnetic Resonance Imaging (fMRI), Time-Series Analysis, Wearable Camera Technology, Neuroimaging, Brain Decoding, Cognitive State Classification, Episodic Memory, Neuroethics, Experimental Design, MATLAB, SPM, Microsoft Excel, SPSS*
