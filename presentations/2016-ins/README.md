@@ -20,9 +20,9 @@
 
 ## Technical Methodologies
 *As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
-* **Experimental Design:** Engineered a novel 3-phase longitudinal fMRI paradigm using wearable digital cameras to capture unstructured, real-world event sequences across 3 weeks. Programmed custom visual stimulus delivery and scan-synchronized response collection in **MATLAB**, managing end-to-end neuroimaging and behavioral data collection across all participants.
-* **Statistical & Predictive Modeling:** Designed and implemented a neuroimaging machine learning pipeline to clean and process the time-series, deploying multi-voxel pattern analysis (MVPA) and regularized logistic regression (RLR) classifier algorithms in **MATLAB** to decode memory states from brain activity, and evaluated machine learning performance along with additional behavioral analyses in **Microsoft Excel** and **SPSS**.
-* **Data Visualization:** Developed data visualizations to translate complex machine learning and brain mapping findings into accessible formats and authored the final presentation materials.
+* **Experimental Design:** Engineered a novel 3-phase longitudinal fMRI paradigm using wearable digital cameras to capture unstructured, real-world event sequences across 3 weeks. Programmed custom visual stimulus delivery and scan-synchronized response collection in **MATLAB**, and collected all neuroimaging and behavioral data.
+* **Machine Learning and Predictive Modeling:** Built an end-to-end multi-voxel pattern analysis (MVPA) decoding pipeline in **MATLAB**, preprocessing the fMRI time-series and training regularized logistic regression (RLR) classifiers with leave-one-run-out cross-validation to predict memory states from neural activity.
+* **Data Visualization:** Authored all presentation materials, engineering classification performance plots, behavioral metric summaries, and anatomical maps that translate multivariate predictive models into visual formats.
 
 ---
 
