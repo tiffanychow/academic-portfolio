@@ -20,7 +20,7 @@
 
 ## Technical Methodologies
 *As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
-* **Experimental Design:** Designed a novel 3-phase functional magnetic resonance imaging (fMRI) experimental paradigm utilizing wearable digital cameras to capture unstructured, real-world event sequences, programming the fMRI tasks with customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collected neuroimaging and behavioral data.
+* **Experimental Design:** Engineered a novel 3-phase longitudinal fMRI paradigm using wearable digital cameras to capture unstructured, real-world event sequences across 3 weeks. Programmed custom visual stimulus delivery and scan-synchronized response collection in **MATLAB**, managing end-to-end neuroimaging and behavioral data collection across all participants.
 * **Statistical & Predictive Modeling:** Designed and implemented a neuroimaging machine learning pipeline to clean and process the time-series, deploying multi-voxel pattern analysis (MVPA) and regularized logistic regression (RLR) classifier algorithms in **MATLAB** to decode memory states from brain activity, and evaluated machine learning performance along with additional behavioral analyses in **Microsoft Excel** and **SPSS**.
 * **Data Visualization:** Developed data visualizations to translate complex machine learning and brain mapping findings into accessible formats and authored the final presentation materials.
 
