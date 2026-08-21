@@ -1,12 +1,12 @@
 # Assessing fMRI-Based Memory Detection: Can Personally Experienced Event Memories Be Differentiated from Second-Hand Event Knowledge?
 
-**Poster Presentation** | International Neuroethics Society (INS) Annual Meeting | 2016 | San Diego, CA, USA
+**Poster Presentation** ([View Poster](./2016-chow-ins.png)) | International Neuroethics Society (INS) Annual Meeting | 2016 | San Diego, CA, USA
 
 **Recognition:** Awarded **"Top Abstract"** and published in *The American Journal of Bioethics Neuroscience*
 
-**Funding:** National Science Foundation Graduate Research Fellowship Program
+**Fellowship Award:** National Science Foundation Graduate Research Fellowship Program  
 
-**Core Skills:** `MATLAB` `Machine Learning (MVPA)` `Predictive Modeling` `Regularized Logistic Regression (RLR)` `Feature Engineering` `Time-Series Analysis` `Experimental Design` `fMRI`
+**Core Skills:** `MATLAB` `Machine Learning (MVPA)` `Predictive Modeling` `Regularized Logistic Regression (RLR)` `Cross-Validation` `Feature Engineering` `Time-Series Analysis` `Factorial Experimental Design` `Wearable Camera Technology` `fMRI`
 
 ---
 
