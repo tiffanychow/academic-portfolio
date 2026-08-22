@@ -13,21 +13,21 @@
 ---
 
 ## Executive Summary
-* **Problem:** The rostrolateral prefrontal cortex (RLPFC) supports cognitive control and episodic memory retrieval, with prior work suggesting hemispheric lateralization. How the left and right RLPFC differentially process temporal sequence violations, especially distinguishing between predictions based on specific stored experiences (memories) and generalized models (schemas), is unknown.
+* **Problem:** The rostrolateral prefrontal cortex (RLPFC) supports cognitive control and episodic memory retrieval, with prior work suggesting hemispheric lateralization. How the left and right RLPFC differentially process temporal sequence violations, especially distinguishing between predictions based on specific stored experiences (memories) and generalized models (schemas), is unclear.
 * **Approach:** Designed and implemented a 3-phase fMRI experimental paradigm using wearable digital cameras to capture 3 weeks of naturalistic life event sequences. Computed univariate GLM contrasts (comparing intact and scrambled sequences) to isolate temporal order prediction error signals across novel and familiar sequences, and performed seed-based generalized context-dependent psychophysiological interaction (gPPI) analyses to map functional network connectivity.
-* **Takeaway:** The left and right RLPFC hemispheres demonstrate divergent activation and functional connectivity profiles. The **left RLPFC** detected temporal order violations in *novel* sequences (*potentially reflecting schema-based prediction errors*), while the **right RLPFC** detected temporal order violations in *previously encountered* sequences (*potentially reflecting memory-based prediction errors*).
+* **Takeaway:** Demonstrated a clear functional lateralization in prefrontal prediction error signaling: the **left RLPFC** selectively detected temporal order violations in novel sequences (reflecting schema-based prediction errors) and coupled with the frontoparietal control network, whereas the **right RLPFC** selectively detected temporal order violations in previously encountered sequences (reflecting memory-based prediction errors) and coupled with ventral attention and medial temporal lobe retrieval networks.
 
 ---
 
 ## Technical Methodologies
 *As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
-* **Experimental Design:** Designed a 3-phase functional magnetic resonance imaging (fMRI) paradigm utilizing wearable digital cameras to capture unstructured, real-world event sequences, programming the customized stimulus delivery and scan-synchronized response collection in **MATLAB**, and collecting neuroimaging and behavioral data.
-* **Statistical Modeling:** Designed and implemented a neuroimaging analysis pipeline to clean and process the time-series, conducting general linear model (GLM) univariate contrasts and generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses in **MATLAB** and **SPSS**.
-* **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
+* **Experimental Design:** Engineered a novel 3-phase longitudinal fMRI paradigm using wearable digital cameras to capture unstructured, real-world event sequences across 3 weeks. Programmed custom visual stimulus delivery and scan-synchronized response collection in **MATLAB**, acquiring all neuroimaging and behavioral data across 18 participants.
+* **Statistical Modeling:** Built an end-to-end neuroimaging analysis pipeline to clean and process the fMRI time-series in **MATLAB**, conducting whole-brain general linear model (GLM) univariate contrasts and seed-based generalized context-dependent psychophysiological interaction (gPPI) functional connectivity analyses.
+* **Data Visualization:** Authored all presentation materials, engineering behavioral metric summaries and anatomical maps to translate lateralization and connectivity models into visual formats.
 
 ---
 
-![SfN Poster](2016-chow-sfn.png)
+![SfN Poster](./2016-chow-sfn.png)
 
 ---
 
@@ -35,7 +35,3 @@
 This material is based upon work supported by the National Science Foundation Graduate Research Fellowship Program under Grant No. DGE-1144087 and DGE-1650604 awarded to Tiffany E. Chow, as well as a Hellman Fellows Fund award and UCLA COR Faculty Research Grant to Jesse Rissman.
 
 Any opinions, findings, and conclusions or recommendations expressed in this material are those of the author(s) and do not necessarily reflect the views of the National Science Foundation.
-
----
-
-**Keywords:** *Functional Magnetic Resonance Imaging (fMRI), Functional Connectivity, Generalized Context-Dependent Psychophysiological Interaction (gPPI), General Linear Model (GLM), Time-Series Analysis, Rostrolateral Prefrontal Cortex (RLPFC), Hemispheric Lateralization, Prediction Error, Wearable Camera Technology, Neuroimaging, Experimental Design, Episodic Memory, MATLAB, SPSS*
