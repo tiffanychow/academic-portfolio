@@ -11,8 +11,7 @@
 ---
 
 ## Executive Summary
-
-* **Problem:** Deploying fMRI-based memory detection in legal and forensic settings requires machine learning models that can distinguish genuine, personally experienced events from second-hand knowledge such as viewing photographs. However, whether machine learning classifiers can reliably differentiate the neural activity patterns of authentic autobiographical recall from laboratory-induced familiarity remains poorly understood.
+* **Problem:** Deploying fMRI-based memory detection in legal and forensic settings requires machine learning models that can distinguish genuine, personally experienced events from second-hand knowledge such as viewing photographs. Whether machine learning classifiers can reliably differentiate the neural activity patterns of authentic autobiographical recall from laboratory-induced familiarity is unknown.
 * **Approach:** Designed a 3-phase fMRI experimental paradigm utilizing naturalistic event sequences from participants' lives captured by wearable digital cameras over 3 weeks to simulate real-world event recall. Deployed multi-voxel pattern analysis (MVPA) using regularized logistic regression (RLR) classifiers and leave-one-run-out cross-validation across targeted brain networks to decode memory source, image familiarity, and temporal order based on neural activity.
 * **Takeaway:** Demonstrated that machine learning models reliably decode real-world memory states above chance: the **Autobiographical Network** preferentially decoded memory source (Self vs. Other life events), whereas the **Retrieval Success Network** preferentially decoded prior image familiarity (Previewed vs. Non-Previewed events). While machine learning models successfully classified nuanced memories (e.g., personal experience vs. second-hand knowledge), sub-100% classification accuracy establishes critical empirical boundary conditions that caution against immediate deployment in legal and forensic settings.
 
