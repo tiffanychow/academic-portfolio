@@ -8,14 +8,13 @@
 
 **Fellowship Award:** National Science Foundation Graduate Research Fellowship Program  
 
-**Core Skills:** `MATLAB` `Functional Connectivity (gPPI)` `General Linear Model (GLM)` `Univariate Contrasts` `Time-Series Analysis` `Factorial Experimental Design` `Wearable Camera Technology` `fMRI`
+**Core Skills:** `MATLAB` `Functional Connectivity (gPPI)` `General Linear Model (GLM)` `Time-Series Analysis` `Factorial Experimental Design` `Wearable Camera Technology` `fMRI`
 
 ---
 
 ## Executive Summary
-
-* **Problem:** The rostrolateral prefrontal cortex (RLPFC) facilitates episodic memory retrieval, including control and monitoring processes, with prior studies suggesting *functional hemispheric lateralization*. However, it is unclear how temporal sequence information may interact with novelty detection in these regions to impact prediction error signaling during the retrieval of real-world memories. *Does the brain detect sequence anomalies by comparing them to specific stored experiences (memories) or to generalized predictive models (schemas)?*
-* **Approach:** Implemented a 3-phase fMRI experimental design employing naturalistic event sequences taken from participants' lives over 3 weeks via wearable digital cameras. Conducted general linear model (GLM) univariate contrasts to *identify distinct types of prediction error signaling in response to temporal order violations* (intact vs. scrambled sequences) as well as generalized context-dependent psychophysiological interaction (gPPI) analyses using the left and right RLPFC to *assess functional connectivity*.
+* **Problem:** The rostrolateral prefrontal cortex (RLPFC) supports cognitive control and episodic memory retrieval, with prior work suggesting hemispheric lateralization. How the left and right RLPFC differentially process temporal sequence violations, especially distinguishing between predictions based on specific stored experiences (memories) and generalized models (schemas), is unknown.
+* **Approach:** Designed and implemented a 3-phase fMRI experimental paradigm using wearable digital cameras to capture 3 weeks of naturalistic life event sequences. Computed univariate GLM contrasts (comparing intact and scrambled sequences) to isolate temporal order prediction error signals across novel and familiar sequences, and performed seed-based generalized context-dependent psychophysiological interaction (gPPI) analyses to map functional network connectivity.
 * **Takeaway:** The left and right RLPFC hemispheres demonstrate divergent activation and functional connectivity profiles. The **left RLPFC** detected temporal order violations in *novel* sequences (*potentially reflecting schema-based prediction errors*), while the **right RLPFC** detected temporal order violations in *previously encountered* sequences (*potentially reflecting memory-based prediction errors*).
 
 ---
