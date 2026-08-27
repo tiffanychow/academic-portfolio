@@ -4,7 +4,9 @@
 
 **Fellowship Award:** National Science Foundation Graduate Research Fellowship Program
 
-**Core Skills:** `MATLAB` `Functional Connectivity (gPPI)` `General Linear Model (GLM)` `Time-Series Analysis` `Factorial Experimental Design` `Wearable Camera Technology` `fMRI`
+**Tools:** `MATLAB` `Statistical Parametric Mapping Toolbox (SPM8)` `Generalized PPI Toolbox (gPPI)` `Psychtoolbox` `SPSS`
+
+**Core Skills:** `Neuroimaging (fMRI)` `Functional Connectivity (gPPI)` `General Linear Model (GLM)` `Time-Series Analysis` `Factorial Experimental Design` `Wearable Camera Technology`
 
 ---
 
@@ -19,7 +21,7 @@
 *As the lead researcher and first author, I designed the end-to-end experimental and analytical workflow supported by an award from the National Science Foundation Graduate Research Fellowship Program:*
 * **Experimental Design:** Engineered a novel 3-phase longitudinal fMRI paradigm using wearable digital cameras to capture unstructured, real-world event sequences across 3 weeks. Programmed custom visual stimulus delivery and scan-synchronized response collection in **MATLAB**, acquiring all neuroimaging and behavioral data across 18 participants.
 * **Statistical Modeling:** Built an end-to-end pipeline to clean and process the fMRI time series in **MATLAB**, integrating advanced denoising algorithms, anatomical region-of-interest (ROI) segmentation, general linear model (GLM) parameter extraction, and generalized context-dependent psychophysiological interaction (gPPI) functional connectivity modeling.
-* **Data Visualization:** Authored all presentation materials, engineering comparative figures and anatomical maps that translate multidimensional statistical models and network interactions into visual formats.
+* **Data Visualization:** Authored all presentation materials, engineering comparative figures and anatomical maps to communicate multidimensional statistical models and network interactions.
 
 ---
 
