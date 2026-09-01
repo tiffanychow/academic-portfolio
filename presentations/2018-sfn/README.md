@@ -1,8 +1,10 @@
 # Apolipoprotein ɛ4 Carrier Status Impacts Affective and Cognitive Empathy
 
-**Poster Presentation** | Society for Neuroscience (SfN) Annual Meeting | 2018 | San Diego, CA, USA
+**Poster Presentation** ([View Poster](./2018-chow-sfn.png)) | Society for Neuroscience (SfN) Annual Meeting | 2018 | San Diego, CA, USA
 
-**Core Skills:** `R` `Mixed-Effects Regression` `Longitudinal Trajectory Modeling` `Cohort Stratification` `Multimodal Integration`
+**Tools:** `R` `nlme`
+
+**Core Skills:** `Longitudinal Trajectory Modeling` `Linear Mixed-Effects Models` `Multivariate Linear Regression` `Cohort Stratification` `Multimodal Data Integration`
 
 ---
 
