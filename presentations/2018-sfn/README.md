@@ -24,14 +24,10 @@
 
 ---
 
-![SfN Poster](2018-chow-sfn.png)
+![SfN Poster](./2018-chow-sfn.png)
 
 ---
 
 ## Funding Acknowledgment
 
 This study was supported by the Larry L. Hillblom Foundation, the John Douglas French Alzheimer’s Foundation, and grants from the National Institute on Aging (P30 AG062422, K23AG040127, K99AG065501, R01AG057204, and R01AG073244).
-
----
-
-**Keywords:** *Longitudinal Behavioral Trajectory Modeling, Mixed-Effects Regression, Cohort Stratification, Multimodal Integration, Alzheimer's Disease, Apolipoprotein ɛ4 (APOE\*E4), Genetic Risk Factors, Neurodegenerative Disorder, Social Cognition, Affective Empathy, Cognitive Empathy, Interpersonal Reactivity Index (IRI)*
