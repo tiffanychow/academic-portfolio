@@ -1,8 +1,10 @@
 # Apolipoprotein ɛ4 Relates to Cognitive Empathy and Frontoparietal Gray Matter Volume in Healthy Older Adults
 
-**Poster Presentation** | Bay Area Affective Science (BAAS) | 2019 | San Francisco, CA, USA
+**Poster Presentation** ([View Poster](./2019-chow-baas.png)) | Bay Area Affective Science (BAAS) | 2019 | San Francisco, CA, USA
 
-**Core Skills:** `R` `MATLAB` `Mixed-Effects Regression` `Cohort Stratification` `Multimodal Integration` `Structural Neuroimaging` `Voxel-Based Morphometry (VBM)` `MRI`
+**Tools:** `R` `nlme` `MATLAB` 
+
+**Core Skills:** `Structural Neuroimaging (MRI)` `Voxel-Based Morphometry (VBM)` `Linear Mixed-Effects Models` `Multivariate Linear Regression` `Cohort Stratification` `Multimodal Data Integration`
 
 ---
 
@@ -23,7 +25,7 @@
 
 ---
 
-![BAAS Poster](2019-chow-baas.png)
+![BAAS Poster](./2019-chow-baas.png)
 
 ---
 
