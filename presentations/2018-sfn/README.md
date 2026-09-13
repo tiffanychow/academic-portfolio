@@ -19,7 +19,7 @@
 ## Technical Methodologies
 *As the lead researcher and first author, I designed and conducted the end-to-end analytical, statistical, and visualization workflow:*
 * **Longitudinal Trajectory and Statistical Modeling:** Designed and implemented a comparative analysis pipeline to evaluate socioemotional divergence based on genetic AD risk. Developed multivariate linear regressions and linear mixed-effects models in **R** to evaluate baseline group differences and longitudinal trajectories on multidimensional measures of empathy and cognition.
-* **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning genetic and behavioral metrics.
+* **Data Wrangling and Multimodal Integration:** Investigated the core research question and operationalized the analytical design. Curated and integrated longitudinal data across 359 older adults that included harmonizing APOE\*E4 genotyping, annual neuropsychological test batteries, and informant-based empathy evaluations.
 * **Data Visualization:** Authored all presentation materials, creating longitudinal trajectory plots and baseline comparative bar charts in **R** to demonstrate the genetic impacts of APOE\*E4 on socioemotional and cognitive profiles.
 
 ---
