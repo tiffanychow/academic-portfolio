@@ -17,7 +17,7 @@
 ---
 
 ## Technical Methodologies
-*As the lead researcher and first author, I conducted the end-to-end analytical pipeline:*
+*As the lead researcher and first author, I designed and conducted the end-to-end neuroimaging, statistical, and visualization workflow:*
 * **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning neuroimaging, genetic, and behavioral metrics.
 * **Statistical Modeling:** Designed and implemented a comparative analysis pipeline to evaluate neural and behavioral differences based on genetic risk, developing multivariate mixed-effects linear regressions in **R**, and conducting voxel-based morphometry (VBM) neuroimaging analyses in **MATLAB**.
 * **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
