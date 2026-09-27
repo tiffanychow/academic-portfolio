@@ -2,7 +2,7 @@
 
 **Poster Presentation** ([View Poster](./2019-chow-baas.png)) | Bay Area Affective Science (BAAS) | 2019 | San Francisco, CA, USA
 
-**Tools:** `R` `nlme` `MATLAB` 
+**Tools:** `R` `nlme` `MATLAB` `Statistical Parametric Mapping Toolbox (SPM12)` `Computational Anatomy Toolbox (CAT12)`
 
 **Core Skills:** `Structural Neuroimaging (MRI)` `Voxel-Based Morphometry (VBM)` `Linear Mixed-Effects Models` `Multivariate Linear Regression` `Cohort Stratification` `Multimodal Data Integration`
 
