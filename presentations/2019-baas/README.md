@@ -18,7 +18,7 @@
 
 ## Technical Methodologies
 *As the lead researcher and first author, I designed and conducted the end-to-end neuroimaging, statistical, and visualization workflow:*
-* **Structural Neuroimaging and Statistical Modeling:** Built a voxel-based morphometry pipeline in **MATLAB** using **SPM12** and **CAT12** to test whole-brain APOE\*E4 and empathy interactions on gray matter volume. Developed multivariate linear regressions and linear mixed-effects models in **R** (`nlme`) to evaluate group differences in baseline cognitive empathy between carriers and non-carriers.
+* **Structural Neuroimaging and Statistical Modeling:** Built a voxel-based morphometry pipeline in **MATLAB** (`SPM12` and `CAT12`) to test whole-brain APOE\*E4 and empathy interactions on gray matter volume. Developed multivariate linear regressions and linear mixed-effects models in **R** (`nlme`) to evaluate group differences in baseline cognitive empathy between carriers and non-carriers.
 * **Data Wrangling:** Investigated the core research question and operationalized the analytical design, curating the dataset by defining inclusion criteria and aggregating a multi-modal dataset spanning neuroimaging, genetic, and behavioral metrics.
 * **Data Visualization:** Developed data visualizations to translate complex findings into accessible formats and authored the presentation materials.
 
