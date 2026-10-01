@@ -4,7 +4,8 @@
 
 **Tools:** `R` `nlme` `MATLAB` `Statistical Parametric Mapping Toolbox (SPM12)` `Computational Anatomy Toolbox (CAT12)`
 
-**Core Skills:** `Mixed-Effects Regression` `Feature Extraction` `Feature Engineering` `Longitudinal Trajectory Modeling` `Multimodal Integration` `Structural Neuroimaging` `Voxel-Based Morphometry (VBM)` `PET` `MRI`
+**Core Skills:** `Structural Neuroimaging (MRI)` `Voxel-Based Morphometry (VBM)` `Molecular PET Neuroimaging` `Linear Mixed-Effects Models` `Multivariate Linear Regression` `Longitudinal Trajectory Modeling` `Feature Engineering` `Cohort Stratification` `Multimodal Data Integration`
+
 
 ---
 
