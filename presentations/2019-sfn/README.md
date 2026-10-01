@@ -2,7 +2,9 @@
 
 **Poster Presentation** ([View Poster](./2019-chow-sfn.png)) | Society for Neuroscience (SfN) Annual Meeting | 2019 | Chicago, IL, USA
 
-**Core Skills:** `R` `MATLAB` `Mixed-Effects Regression` `Feature Extraction` `Feature Engineering` `Longitudinal Trajectory Modeling` `Multimodal Integration` `Structural Neuroimaging` `Voxel-Based Morphometry (VBM)` `PET` `MRI`
+**Tools:** `R` `nlme` `MATLAB` `Statistical Parametric Mapping Toolbox (SPM12)` `Computational Anatomy Toolbox (CAT12)`
+
+**Core Skills:** `Mixed-Effects Regression` `Feature Extraction` `Feature Engineering` `Longitudinal Trajectory Modeling` `Multimodal Integration` `Structural Neuroimaging` `Voxel-Based Morphometry (VBM)` `PET` `MRI`
 
 ---
 
